@@ -25,9 +25,11 @@
     $characters.forEach(function(char, i) {
       switch(char) {
         case 'E':
+        case 'e':
           $characters[i] = '3';
           break;
         case 'R':
+        case 'r':
           $characters[i] = '4';
           break;
         default:

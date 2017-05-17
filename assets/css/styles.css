@@ -54,3 +54,7 @@ a:hover{
 	position:relative;
 	min-height: 90px;
 }
+
+.container p {
+	text-transform: uppercase;
+}
